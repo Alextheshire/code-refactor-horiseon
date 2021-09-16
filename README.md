@@ -5,4 +5,4 @@ Displayed here is an image of the webpage
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets\images\horiseonscreen.png)
 
 
-[Link to deployed application.](https://alextheshire.github.io/code-refactor-horiseon/#social-media-marketing)
+[Link to deployed application.](https://alextheshire.github.io/code-refactor-horiseon)
