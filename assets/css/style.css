@@ -89,18 +89,6 @@ p {
     margin-left: 20px;
 }
 
-#benefits {
-    /* formatting for benefits aside */
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
 .content-class {
     /* formatting boxes for main content section */
     margin-bottom: 20px;
@@ -121,6 +109,18 @@ p {
     /* Font for main section headings */
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+#benefits {
+    /* formatting for benefits aside */
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
 }
 
 
